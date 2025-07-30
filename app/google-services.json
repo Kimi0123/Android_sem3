@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "887011564494",
+    "firebase_url": "https://proto-42044-default-rtdb.firebaseio.com",
+    "project_id": "proto-42044",
+    "storage_bucket": "proto-42044.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887011564494:android:4c6892ca74f12828ce699f",
+        "android_client_info": {
+          "package_name": "com.example.ai36"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxZJ4NkFZRNefcuMqqNs6WI-uqiD0rfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887011564494:android:3366fe077d9054b8ce699f",
+        "android_client_info": {
+          "package_name": "com.example.sem3project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMxZJ4NkFZRNefcuMqqNs6WI-uqiD0rfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
